@@ -1,0 +1,4 @@
+baseURL = 'https://fuleiro.com.br/'
+locale = 'pt-BR'
+title = 'Domínio fuleiro.com.br à venda!'
+theme = 'ananke'
